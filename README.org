@@ -1,2 +1,2 @@
-This repository contains 285K click-through rate examples. The data format is
-described [[https://github.com/mli/parameter_server/wiki/Data][here]].
+
+Moved to [[https://github.com/mli/data][here]]
